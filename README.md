@@ -26,13 +26,13 @@ I am a Business Analytics & IT senior at Rutgers Business School with startup co
 ### Bond Duration & Interest-Rate Analysis
 *In-progress self-study project, started summer 2026.*
 
-Excel analysis of Treasuries and corporate bonds: duration calculations and estimated price changes under ±100-basis-point interest-rate shocks.
+An Excel-based self-study analysis exploring how Treasury and corporate bond prices respond to interest-rate changes through duration calculations and ±100-basis-point scenarios.
 
-[Project overview](https://abdullahmehmood171.github.io/projects/bond-duration.html)
+[Read the case study](https://abdullahmehmood171.github.io/projects/bond-duration.html)
 
-### Triptic — Business Co-Founder
-*November 2025–August 2026. Concluded at prototype stage.*
+### Triptic — Business Development & Customer Discovery
+*Business Co-Founder, November 2025–August 2026. Concluded at prototype stage.*
 
 Business-side work on a college counseling venture: pitching, conversations with counselors and students, creating the pitch deck, managing Instagram and the waitlist, and managing the interns who built the prototype.
 
-[Project overview](https://abdullahmehmood171.github.io/projects/triptic.html)
+[Read the case study](https://abdullahmehmood171.github.io/projects/triptic.html)
